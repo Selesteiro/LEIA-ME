@@ -28,7 +28,7 @@
 # Habilidades Técnicas
 - Linguagens de Programação: Python e Java Script
 - Ferramentas de Design: Adobe Photoshop, Illustrator, Canva, etc. 🎨
-Marketing Visual: Estratégias de comunicação visual para engajamento. 📊"
+- Marketing Visual: Estratégias de comunicação visual para engajamento. 📊"
 
 # Habilidades Pessoais
 
