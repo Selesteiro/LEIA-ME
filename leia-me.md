@@ -1,7 +1,7 @@
 
 
 # Nome: Vinicius Celestino dos Santos 
-# PT/BR
+# 🇧🇷
 
 # 🌟 Resumo Profissional: 
 - Estudante de Técnico em Informática com habilidades sólidas em design gráfico. 
